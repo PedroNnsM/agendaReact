@@ -1,0 +1,15 @@
+nav{
+    background-color: var(--bg-header);
+    display: flex;
+    justify-content:space-between;
+}
+
+nav a {
+    
+    color:var(--fc-text);
+}
+
+ul{
+    display:flex;
+    gap: 2.0rem
+}
